@@ -175,7 +175,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF5_621209_DU.pdf',
+        download: 'downloads/CF6_621209_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -271,8 +271,7 @@ export default {
     {
       referencia:
         'Asociación Española para la Calidad. (s.f.). Cómo medir la satisfacción del cliente.',
-      link:
-        'https://www.aec.es/c/document_library/get_file?folderId=53412&name=DLFE-1830.pdf',
+      link: 'https://www.aec.es/c/document_library/get_file?folderId=53412&name=DLFE-1830.pdf',
     },
     {
       referencia:
@@ -287,8 +286,7 @@ export default {
     {
       referencia:
         'Universidad de La Sabana. (2018). Protocolo claves para su gestión (informe técnico). intellectum',
-      link:
-        'https://intellectum.unisabana.edu.co/bitstream/handle/10818/32819/17-Final-Protocolo_split.pdf?sequence=1&isAllowed=y',
+      link: 'https://intellectum.unisabana.edu.co/bitstream/handle/10818/32819/17-Final-Protocolo_split.pdf?sequence=1&isAllowed=y',
     },
   ],
   creditos: [
