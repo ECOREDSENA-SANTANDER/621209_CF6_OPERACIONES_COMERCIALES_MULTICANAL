@@ -163,7 +163,7 @@
         .col-8.col-md-8.col-lg-4
           img.p-2(src='@/assets/curso/temas/tema2/imagen4.png', alt='')
         .col-sm-12.col-md-12.col-lg-8
-          p.bg02.borde-redondo.text-center.text-white.p-3 Los momentos de verdad son los instantes en los que los clientes y los proveedores se enfrentan. 
+          p.bg02.borde-redondo.text-white.p-3 Los momentos de verdad son los instantes en los que los clientes y los proveedores se enfrentan. 
           p Y en el servicio al cliente son la secuencia de experiencias buenas y malas que los clientes pasan con una empresa al satisfacer una necesidad. Para una empresa, lo más relevante es el manejo que deben tener los empleados con los clientes. Hay que tener en cuenta que el trato debe ser cuidadoso, donde la prioridad son las necesidades emocionales.
           .cajon.color-acento-contenido.p-4.mb-4
             p Es una gran oportunidad para la empresa permitir que los clientes califiquen y comenten sobre los productos y servicios que reciben, la empresa puede obtener información directa y específica sobre lo que funciona bien y lo que necesita mejorar. Esto no solo ayuda a mantener la satisfacción del cliente, sino que también puede impulsar la innovación, el desarrollo de mejores soluciones y la rapidez para actuar ante cualquier imprevisto. 

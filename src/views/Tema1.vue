@@ -7,7 +7,7 @@
           span 1
         h1 Definiciones en el #[em retail]
   
-      p.mb-5 En este proceso de aprendizaje, en torno a la atención al cliente es bueno precisar y / o recordar ciertos conceptos que nos servirán de insumo para el desarrollo temático.
+      p.mb-5 En este proceso de aprendizaje, en torno a la atención al cliente es bueno precisar y/o recordar ciertos conceptos que nos servirán de insumo para el desarrollo temático.
   
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
@@ -75,7 +75,7 @@
   
       .row.justify-content-center.align-items-center.mb-5
         .col-sm-12.col-md-12.col-lg-5.bgrosado.borde-redondo
-          p.p-3 La omnicanalidad es una estrategia de #[em marketing] que busca proporcionar una experiencia integral y coherente a los clientes, utilizando una combinación de canales #[em online] y #[em offline]. En lugar de tratar cada canal de manera aislada, la omnicanalidad se centra en integrar todos los puntos de contacto disponibles para el cliente, como redes sociales (Facebook, Instagram), aplicaciones de mensajería (WhatsApp), correo electrónico, sitios #[em web, blogs] y otros medios.
+          p.p-3 La omnicanalidad es una estrategia de #[em marketing] que busca proporcionar una experiencia integral y coherente a los clientes, utilizando una combinación de canales #[em online] y #[em offline]. En lugar de tratar cada canal de manera aislada, la omnicanalidad se centra en integrar todos los puntos de contacto disponibles para el cliente, como redes sociales (Facebook, Instagram), aplicaciones de mensajería (WhatsApp), correo electrónico, sitios web, blogs y otros medios.
         .col-8.col.md-8.col-lg-3
           img.p-2(src='@/assets/curso/temas/tema1/imagen3.png', alt='')
   

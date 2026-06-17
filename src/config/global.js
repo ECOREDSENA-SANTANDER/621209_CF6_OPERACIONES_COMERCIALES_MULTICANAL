@@ -260,7 +260,7 @@ export default {
     },
     {
       referencia:
-        'FERNÁNDEZ VERDE, L. O. L. A., & Fernández Rico, E. (2017). Comunicación empresarial y atención al cliente 2. Ediciones Paraninfo, SA.',
+        ' Fernández Verde, L. O. L. A., & Fernández Rico, E. (2017). Comunicación empresarial y atención al cliente 2. Ediciones Paraninfo, SA.',
       link: '',
     },
     {
@@ -382,7 +382,7 @@ export default {
         },
         {
           nombre: 'Sandra Liliana Cristancho Cruz',
-          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
