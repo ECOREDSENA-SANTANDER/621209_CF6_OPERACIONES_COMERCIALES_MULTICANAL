@@ -175,7 +175,7 @@
   
       p.mb-4 Las empresas necesitan planificar lo inesperado para darle solución. Los planes de contingencia son la preparación para cualquier cosa que pueda suceder fuera de las operaciones diarias normales. Ninguna empresa quiere pensar en que ocurran estos escenarios y es muy posible que sucedan, por eso es importante tener un plan establecido. Ten en cuenta lo siguiente:
   
-      AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul estilo1")
+      AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul2 estilo1")
         .row(titulo="Notificación al cliente")
           .col-sm-12.col-md-12.col-lg-7.mb-4.mb-md-0
             p.mb-4 Toda empresa debe analizar las necesidades indicadas por el cliente y determinar un plan para abordarlas. Se deben tener en cuenta las reacciones del mismo, esto será clave. Las empresas deben pensar en cómo afectará el escenario al cliente para determinar cómo reaccionar ante la necesidad.

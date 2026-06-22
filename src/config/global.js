@@ -377,7 +377,7 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette González Quintero',
-          cargo: 'Validadora de recursos educativos digitales',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
