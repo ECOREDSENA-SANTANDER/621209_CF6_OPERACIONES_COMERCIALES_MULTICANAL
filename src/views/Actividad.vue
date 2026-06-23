@@ -17,7 +17,7 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Cuestionario: atención al cliente en el <i>retail.</i>',
+      tema: 'Atención al cliente en el <i>retail.</i>',
       titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> verificar la comprensión de los conceptos fundamentales relacionados con la atención al cliente en el <i>retail</i>, el mercadeo <i>mix</i>, la clasificación de clientes, las técnicas de servicio, los protocolos organizacionales, la satisfacción del cliente, la trazabilidad del servicio y el trámite de PQRS. ',

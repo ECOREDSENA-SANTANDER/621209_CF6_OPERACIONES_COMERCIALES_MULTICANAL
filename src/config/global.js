@@ -260,7 +260,7 @@ export default {
     },
     {
       referencia:
-        ' Fernández Verde, L. O. L. A., & Fernández Rico, E. (2017). Comunicación empresarial y atención al cliente 2. Ediciones Paraninfo, SA.',
+        'Fernández Verde, L. O. L. A., & Fernández Rico, E. (2017). Comunicación empresarial y atención al cliente 2. Ediciones Paraninfo, SA.',
       link: '',
     },
     {
@@ -270,9 +270,8 @@ export default {
     },
     {
       referencia:
-        'Asociación Española para la Calidad. (s.f.). Cómo medir la satisfacción del cliente.',
-      link:
-        'https://www.aec.es/c/document_library/get_file?folderId=53412&name=DLFE-1830.pdf',
+        'Asociación Española para la Calidad. (2003). Cómo medir la satisfacción del cliente. AEC.',
+      link: '',
     },
     {
       referencia:

@@ -103,7 +103,7 @@
   
               .tarjeta.color-acento-botones.p-4(x="35%" y="35%" numero="+" style='border-radius: 10px; background-color: #F7CAC3')
                 h5.mb-3.text-center Código
-                p.mb-0.text-center El lenguaje se refiere a los códigos; palabras, signos escritos, gestos. Las respuestas  se tornan confusas y  provocan  disfunciones.
+                p.mb-0.text-center Sistema de signos, normas y convenciones que comparten emisor y receptor para construir, transmitir e interpretar adecuadamente un mensaje.
   
               .tarjeta.color-acento-botones.p-4(x="96%" y="30%" numero="+" style='border-radius: 10px; background-color: #F7CAC3')
                 h5.mb-3.text-center #[em Feed-back] (retroalimentación)

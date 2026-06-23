@@ -8,7 +8,7 @@
       .row.justify-content-center
         .col-lg-12.mb-5
           figure
-            img(src="@/assets/curso/sintesis.svg", alt="A continuación se presenta una sintesis del componente Atención al cliente en el Retail, la cual hace referencia a la competitividad y gestión turística abarca cuatro áreas clave: la competitividad, que se enfoca en mejorar el rendimiento del sector turístico mediante modelos específicos; la gestión del turismo, que involucra a actores tanto públicos como privados, incluyendo la gestión compartida; la sostenibilidad, que busca equilibrar el crecimiento turístico con la conservación y sostenibilidad; y los prestadores de servicios turísticos, que se dividen en proveedores, su clasificación, los tipos de servicios que ofrecen y las agencias de viajes, proporcionando una visión integral para optimizar el sector.")
+            img(src="@/assets/curso/sintesis.svg", alt="La sintesis organiza cinco componentes fundamentales: conceptos básicos del servicio al cliente, procesos de atención en el entorno comercial, técnicas de servicio orientadas a la comunicación y la interacción efectiva, protocolos institucionales relacionados con la atención y la cortesía, y mecanismos para evaluar la satisfacción del cliente mediante herramientas de seguimiento, gestión de PQRS y registro de información. Estos elementos se articulan para fortalecer la calidad del servicio y la experiencia del cliente en los establecimientos comerciales.")
         .col-auto
           a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
             .anexo__icono
