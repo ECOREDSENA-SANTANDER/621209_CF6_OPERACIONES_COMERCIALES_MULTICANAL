@@ -250,44 +250,38 @@ export default {
   referencias: [
     {
       referencia:
-        'Blanco García, C. (2013). Comunicación y atención al cliente. Madrid, Spain: Macmillan Iberia, S.A.',
-      link: '',
-    },
-    {
-      referencia:
-        'Grönroos, C. (1994). Marketing y gestión de servicios: la gestión de los momentos de la verdad y la competencia en los servicios. Ediciones Díaz de Santos.',
-      link: '',
-    },
-    {
-      referencia:
-        'Fernández Verde, L. O. L. A., & Fernández Rico, E. (2017). Comunicación empresarial y atención al cliente 2. Ediciones Paraninfo, SA.',
-      link: '',
-    },
-    {
-      referencia:
-        'Marielos Ramos (2020). Universidad de San Carlos de Guatemala. Etiqueta y normas de cortesía.',
-      link: '',
-    },
-    {
-      referencia:
         'Asociación Española para la Calidad. (2003). Cómo medir la satisfacción del cliente. AEC.',
       link: '',
     },
     {
       referencia:
-        'Quiñones, M. E. V. (2007). Calidad y servicio. Concepto y herramientas. Universidad de la Sabana.',
+        'Blanco García, C. (2013). Comunicación y atención al cliente. Macmillan Iberia, S. A.',
       link: '',
     },
     {
       referencia:
-        'Mariscal, M. (2009). Manual de proceso de la información. México D.F., Editorial Miguel Ángel Porrúa.',
+        'Fernández Verde, L. O. L. A., & Fernández Rico, E. (2017). Comunicación empresarial y atención al cliente 2. Ediciones Paraninfo, S. A.',
       link: '',
     },
     {
       referencia:
-        'Universidad de La Sabana. (2018). Protocolo claves para su gestión (informe técnico). intellectum',
-      link:
-        'https://intellectum.unisabana.edu.co/bitstream/handle/10818/32819/17-Final-Protocolo_split.pdf?sequence=1&isAllowed=y',
+        'Grönroos, C. (1994). Marketing y gestión de servicios: la gestión de los momentos de la verdad y la competencia en los servicios. Ediciones Díaz de Santos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Marielos Ramos. (2020). Etiqueta y normas de cortesía. Universidad de San Carlos de Guatemala.',
+      link: '',
+    },
+    {
+      referencia:
+        'Mariscal, M. (2009). Manual de proceso de la información. Editorial Miguel Ángel Porrúa.',
+      link: '',
+    },
+    {
+      referencia:
+        'Quiñones, M. E. V. (2007). Calidad y servicio: concepto y herramientas. Universidad de La Sabana.',
+      link: '',
     },
   ],
   creditos: [

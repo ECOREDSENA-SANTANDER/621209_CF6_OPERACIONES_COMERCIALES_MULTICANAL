@@ -8,7 +8,7 @@
       .row.justify-content-center
         .col-lg-12.mb-5
           figure
-            img(src="@/assets/curso/sintesis.svg", alt="La sintesis organiza cinco componentes fundamentales: conceptos básicos del servicio al cliente, procesos de atención en el entorno comercial, técnicas de servicio orientadas a la comunicación y la interacción efectiva, protocolos institucionales relacionados con la atención y la cortesía, y mecanismos para evaluar la satisfacción del cliente mediante herramientas de seguimiento, gestión de PQRS y registro de información. Estos elementos se articulan para fortalecer la calidad del servicio y la experiencia del cliente en los establecimientos comerciales.")
+            img(src="@/assets/curso/sintesis.svg", alt="La síntesis organiza cinco componentes fundamentales: conceptos básicos del servicio al cliente, procesos de atención en el entorno comercial, técnicas de servicio orientadas a la comunicación y la interacción efectiva, protocolos institucionales relacionados con la atención y la cortesía, y mecanismos para evaluar la satisfacción del cliente mediante herramientas de seguimiento, gestión de PQRS y registro de información. Estos elementos se articulan para fortalecer la calidad del servicio y la experiencia del cliente en los establecimientos comerciales.")
         .col-auto
           a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
             .anexo__icono
